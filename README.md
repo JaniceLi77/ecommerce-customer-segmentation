@@ -126,7 +126,7 @@ This project demonstrates how data analysis can support business decisions:
 ## Project Structure
 
 * `customer_segmentation.ipynb` – Python analysis, visualization, and modeling
-* `rfm_analysis.sql` – SQL queries for customer analysis
+* `customer_analysis.sql.ipynb` – SQL queries for customer analysis
 * `E-commerce Customer Behavior - Sheet1.csv` – dataset
 
 ---
